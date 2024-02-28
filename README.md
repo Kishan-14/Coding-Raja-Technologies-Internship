@@ -8,7 +8,13 @@
 - Deposit or Withdraw cash from his account
 - Transfer money to benificiary’s account
 - Update existing information 
-- Update Password 
+- Update Password
+- Account Management
+- Transaction History
+- Fund Transfer
+- Balance Enquiry
+- Security Measures
+- Loan Management
  
 ## **To Run This Project:**
 ## **Requirements:**
